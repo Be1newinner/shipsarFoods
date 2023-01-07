@@ -1,20 +1,27 @@
+import 'react-native-gesture-handler';
+import React from 'react';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
+import { NavigationContainer } from '@react-navigation/native';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Provider } from 'react-native-paper';
+
+import { AppNavigator } from './src/infrastructure/navigation/AppNavigator';
+import { SafeArea } from './src/components/SafeAreaView';
+import userTheme from './src/infrastructure/theme';
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+  return (
+    <SafeAreaProvider>
+      <Provider theme={userTheme} >
+        <SafeArea>
+          <NavigationContainer>
+            <AppNavigator />
+          </NavigationContainer>
+        </SafeArea>
+        <StatusBar style="auto" />
+      </Provider>
+    </SafeAreaProvider>
+
+  );
+};
