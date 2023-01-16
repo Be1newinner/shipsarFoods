@@ -1,0 +1,80 @@
+{
+       "category":"cat2",
+       "items":[
+ {
+  "Sr": 55,
+  "Name": "Plain Rice",
+  "Description": "Description",
+  "Price": 30,
+  "Img_name": "cat2_plain_rice",
+  "Category": "cat2",
+      "var": {
+    "default":30,
+    "half": 30,
+    "full" : 50
+  }
+ },
+ {
+  "Sr": 57,
+  "Name": "Jeera Rice",
+  "Description": "Description",
+  "Price": 50,
+  "Img_name": "cat2_jeera_rice",
+  "Category": "cat2",
+      "var": {
+    "default":50,
+    "half": 50,
+    "full" : 90
+  }
+ },
+ {
+  "Sr": 59,
+  "Name": "Veg Biryani",
+  "Description": "Description",
+  "Price": 65,
+  "Img_name": "cat2_veg_biryani",
+  "Category": "cat2",
+      "var": {
+    "default":65,
+    "half": 65,
+    "full" : 110
+  }
+ },
+ {
+  "Sr": 61,
+  "Name": "Chicken Briyani",
+  "Description": "Biryani Special",
+  "Price": 100,
+  "Img_name": "cat2_chicken_biryani",
+  "Category": "cat2",
+      "var": {
+    "default":100,
+    "half": 100,
+    "full" : 180
+  }
+ },
+ {
+  "Sr": 63,
+  "Name": "Chole Chawal",
+  "Description": "Description",
+  "Price": 45,
+  "Img_name": "cat2_chole_chawal",
+  "Category": "cat2"
+ },
+ {
+  "Sr": 64,
+  "Name": "Rajma Chawal",
+  "Description": "Description",
+  "Price": 45,
+  "Img_name": "cat2_rajma_chawal",
+  "Category": "cat2"
+ },
+ {
+  "Sr": 65,
+  "Name": "Kadhi Chawal",
+  "Description": "Description",
+  "Price": 45,
+  "Img_name": "cat2_kadhi_chawal",
+  "Category": "cat2"
+ }
+]}

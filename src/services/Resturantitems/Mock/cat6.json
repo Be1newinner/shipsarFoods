@@ -1,0 +1,20 @@
+{
+    "category":"cat6",
+    "items": [
+ {
+  "Sr": 105,
+  "Name": "Veg Thali",
+  "Description": "Daal + Matar Paneer + 2 Butter Naan + Boondi Raita + Salaad",
+  "Price": 70,
+  "Img_name": "cat6_veg_thali",
+  "Category": "cat6"
+ },
+ {
+  "Sr": 106,
+  "Name": "Especial Veg Thali",
+  "Description": "Daal Makhani + Sahi Paneer + 2 Butter Naan + Boondi Raita + Salaad",
+  "Price": 100,
+  "Img_name": "cat6_veg_thali",
+  "Category": "cat6"
+ }
+]}

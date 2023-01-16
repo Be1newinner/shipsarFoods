@@ -1,12 +1,32 @@
 import React from "react";
-import { Text, View } from "react-native";
+import styled from "styled-components";
+import { useTheme } from "react-native-paper";
+
+import { OrderItem } from "./OrderItem";
+import { ScrollView } from "react-native";
 
 export const OrderScreen = () => {
-    return(
-    <View>
-        <Text>
-            Order Screen
-        </Text>
-        </View>
-        )
-}
+  const { colors } = useTheme();
+
+  const Background = styled(ScrollView)`
+    background: ${colors.appBackground};
+    padding-top: 5px;
+    padding-bottom: 5px;
+    flex: 1;
+  `;
+
+  return (
+    <Background>
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+      <OrderItem />
+    </Background>
+  );
+};

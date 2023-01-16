@@ -1,0 +1,160 @@
+{
+    "category":"cat1",
+"items": [
+ {
+  "Sr": 1,
+  "Name": "Arhar Daal Tadka",
+  "Description": "Ghar ki Daal",
+  "Price": 50,
+  "Img_name": "cat1_arhar_daal_tadka",
+  "Category": "cat1",
+  "var": {
+    "default":50,
+    "half": 50,
+    "full" : 90
+  }
+ },
+ {
+  "Sr": 3,
+  "Name": "Daal Punjabi Tadka",
+  "Description": "Daal me Punjabi Tadka",
+  "Price": 60,
+  "Img_name": "cat1_arhar_daal_tadka",
+  "Category": "cat1",
+    "var": {
+    "default":60,
+    "half": 60,
+    "full" : 100
+  }
+ },
+ {
+  "Sr": 5,
+  "Name": "Aalu Jeera Tadka",
+  "Description": "Jeere Wali Yellow Daal",
+  "Price": 50,
+  "Img_name": "cat1_jeera_aalu_tadka",
+  "Category": "cat1",
+    "var": {
+    "default":50,
+    "half": 50,
+    "full" : 90
+  }
+ },
+ {
+  "Sr": 7,
+  "Name": "Aalu tamatar tadka",
+  "Description": "Vegies k Favorite",
+  "Price": 50,
+  "Img_name": "cat1_aalu_tamatar_tadka",
+  "Category": "cat1",
+    "var": {
+    "default":50,
+    "half": 50,
+    "full" : 90
+  }
+ },
+ {
+  "Sr": 9,
+  "Name": "Soya chaap",
+  "Description": "My Favorite Chaap",
+  "Price": 70,
+  "Img_name": "cat1_soya_chaap",
+  "Category": "cat1",
+    "var": {
+    "default":70,
+    "half": 70,
+    "full" : 120
+  }
+ },
+ {
+  "Sr": 11,
+  "Name": "Daal makhani",
+  "Description": "Makhan bhari Daal",
+  "Price": 70,
+  "Img_name": "cat1_dal_makhani",
+  "Category": "cat1",
+    "var": {
+    "default":70,
+    "half": 70,
+    "full" : 120
+  }
+ },
+ {
+  "Sr": 13,
+  "Name": "Mattar paneer",
+  "Description": "is it Special event?",
+  "Price": 60,
+  "Img_name": "cat1_matar_paneer",
+  "Category": "cat1",
+    "var": {
+    "default":60,
+    "half": 60,
+    "full" : 110
+  }
+ },
+ {
+  "Sr": 15,
+  "Name": "Mattar paneer tadka",
+  "Description": "Tadka Mattar me ya Paneer m?",
+  "Price": 70,
+  "Img_name": "cat1_matar_paneer_tadka",
+  "Category": "cat1",
+    "var": {
+    "default":70,
+    "half": 70,
+    "full" : 120
+  }
+ },
+ {
+  "Sr": 17,
+  "Name": "Mattar mushroom",
+  "Description": "Mushroom Yummy!!",
+  "Price": 80,
+  "Img_name": "cat1_muttor_mushroom",
+  "Category": "cat1",  
+  "var": {
+    "default":80,
+    "half": 80,
+    "full" : 150
+  }
+ },
+ {
+  "Sr": 19,
+  "Name": "Palak paneer",
+  "Description": "Mom says Palak Best",
+  "Price": 70,
+  "Img_name": "cat1_palak_paneer",
+  "Category": "cat1",
+    "var": {
+    "default":70,
+    "half": 70,
+    "full" : 120
+  }
+ },
+ {
+  "Sr": 21,
+  "Name": "Sahi paneer",
+  "Description": "for the kings",
+  "Price": 70,
+  "Img_name": "cat1_sahi_paneer",
+  "Category": "cat1",
+    "var": {
+    "default":70,
+    "half": 70,
+    "full" : 120
+  }
+ },
+ {
+  "Sr": 23,
+  "Name": "Kadai paneer",
+  "Description": "Paneer Waao",
+  "Price": 100,
+  "Img_name": "cat1_kadai_paneer",
+  "Category": "cat1",
+    "var": {
+    "default":100,
+    "half": 100,
+    "full" : 180
+  }
+ }
+]}

@@ -1,0 +1,26 @@
+{
+       "category":"cat7",
+       "items":[
+ {
+  "Sr": 107,
+  "Name": "Boondi Raita",
+  "Price": 0,
+  "Img_name": "cat7_boondi_raita",
+  "Category": "cat7"
+ },
+ {
+  "Sr": 108,
+  "Name": "Water Bottle",
+  "Price": 0,
+  "Img_name": "cat7_water_bottle",
+  "Category": "cat7"
+ },
+ {
+  "Sr": 109,
+  "Name": "Curd",
+  "Price": 0,
+  "Img_name": "cat7_curd",
+  "Category": "cat7"
+ }
+]
+}

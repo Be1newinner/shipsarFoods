@@ -1,0 +1,120 @@
+{
+       "category":"cat3",
+       "items":[
+ {
+  "Sr": 66,
+  "Name": "Chicken Korma",
+  "Description": "Description",
+  "Price": 100,
+  "Img_name": "cat3_chicken_korma",
+  "Category": "cat3",
+      "var": {
+    "default":100,
+    "semi" : 100 ,
+    "half" : 190,
+    "full" : 380
+  }
+ },
+ {
+  "Sr": 68,
+  "Name": "Kadhai Chiken",
+  "Description": "Description",
+  "Price": 120,
+  "Img_name": "cat3_kadhai_chicken",
+  "Category": "cat3",
+        "var": {
+    "default":100,
+    "semi" : 120 ,
+    "half" : 230,
+    "full" : 440
+  }
+ },
+ {
+  "Sr": 70,
+  "Name": "Chicken Masala",
+  "Description": "Description",
+  "Price": 100,
+  "Img_name": "cat3_chicken_masala",
+  "Category": "cat3",
+        "var": {
+    "default":100,
+    "semi" : 100 ,
+    "half" : 190,
+    "full" : 380
+  }
+ },
+ {
+  "Sr": 72,
+  "Name": "Butter Chicken",
+  "Description": "Description",
+  "Price": 120,
+  "Img_name": "cat3_butter_chicken",
+  "Category": "cat3",
+        "var": {
+    "default":100,
+    "semi" : 102 ,
+    "half" : 230,
+    "full" : 440
+  }
+ },
+ {
+  "Sr": 74,
+  "Name": "Chilli Chicken",
+  "Description": "Description",
+  "Price": 150,
+  "Img_name": "cat3_chilli_chicken",
+  "Category": "cat3",
+        "var": {
+    "default":150,
+    "semi" : 150 ,
+    "half" : 280,
+    "full" : 500
+  }
+ },
+ {
+  "Sr": 76,
+  "Name": "Tawa Chicken Boneless",
+  "Description": "Description",
+  "Price": 150,
+  "Img_name": "cat3_tawa_boneless_chicken",
+  "Category": "cat3",
+        "var": {
+    "default":150,
+    "semi" : 150 ,
+    "half" : 280,
+    "full" : 500
+  }
+ },
+ {
+  "Sr": 78,
+  "Name": "Egg Curry",
+  "Description": "2 Eggs",
+  "Price": 50,
+  "Img_name": "cat3_egg_curry",
+  "Category": "cat3"
+ },
+ {
+  "Sr": 79,
+  "Name": "Egg Curry Tadka",
+  "Description": "2 Eggs",
+  "Price": 60,
+  "Img_name": "cat3_egg_curry_tadka",
+  "Category": "cat3"
+ },
+ {
+  "Sr": 80,
+  "Name": "Egg Burji",
+  "Description": "2 Eggs",
+  "Price": 40,
+  "Img_name": "cat3_egg_bhurji",
+  "Category": "cat3"
+ },
+ {
+  "Sr": 81,
+  "Name": "Egg Masala",
+  "Description": "2 Eggs",
+  "Price": 60,
+  "Img_name": "cat3_egg_masala",
+  "Category": "cat3"
+ }
+]}
