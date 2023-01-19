@@ -33,10 +33,15 @@ const OrderSummaryBottom = () => {
     font-size: 18px;
   `;
 
+  const SummaryText = styled.Text`
+    margin-bottom: 7px;
+    font-weight: 600;
+  `;
+
   return (
     <>
       <Background>
-        <Text>Order Summary</Text>
+        <SummaryText>Order Summary</SummaryText>
         <Rows>
           <LData>Sub Total</LData>
           <RData>Rs. 150.0 /-</RData>

@@ -9,13 +9,16 @@ const OrderConfirmed = () => {
   const Background = styled.View`
     background: ${colors.appBackground};
     flex: 1;
+    padding-right: 10px;
   `;
 
   const DeliveryBox = styled.View`
     background: ${colors.componentBg};
     width: 100%;
     margin: 5px;
-    border-top-left-radius: 10px;
+    margin-top: 40px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     padding: 10px;
     align-content: center;
     flex: 1;
@@ -31,7 +34,7 @@ const OrderConfirmed = () => {
     flex-direction: row;
     justify-content: space-between;
     padding: 15px;
-    margin: 10px 0px;
+    margin: 20px 0px;
     border-radius: 10px;
   `;
   const StatusText = styled.Text`

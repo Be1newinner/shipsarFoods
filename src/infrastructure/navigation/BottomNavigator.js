@@ -3,9 +3,8 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { AntDesign } from "@expo/vector-icons";
 
 import { OrderScreen } from "../../screens/OrderScreen/OrderScreen";
-import { ProfileScreen } from "../../screens/ProfileScreen/ProfileScreen";
 import { ExploreHome } from "../../screens/HomeScreen/Screens/ExploreHome";
-
+import { ProfileScreen } from "../../screens/ProfileScreen/screens/ProfileMain/ProfileMain";
 const BottomNavigator = () => {
   const Tab = createBottomTabNavigator();
 
